@@ -1,1 +1,1 @@
-#Live Sever : exercise-tracker-alpha.vercel.app
+#Live Sever : https://exercise-tracker-alpha.vercel.app/
