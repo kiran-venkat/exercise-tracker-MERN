@@ -1,1 +1,1 @@
-#Live Sever : https://vercel.com/kiran-venkat/exercise-tracker
+#Live Sever : exercise-tracker-alpha.vercel.app
